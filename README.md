@@ -65,7 +65,7 @@ interface fa0/0
 
 
 | `captures/dhcp-relay-side.pcap` | Relay forwarding as unicast — giaddr stamped as 192.168.1.1, full DORA between R2 and 
-https://github.com/iQ-coder/cisco-dhcp-relay-dns-ntp-lab/blob/master/Screenshot%202026-06-09%200233091.png
+![Screenshot](https://raw.githubusercontent.com/iQ-coder/cisco-dhcp-relay-dns-ntp-lab/master/Screenshot%202026-06-09%200233091.png)
 R1 |
 | `captures/ntp-sync.pcap` | NTP request/response — R2 polling R1 periodically for time synchronization |
 
