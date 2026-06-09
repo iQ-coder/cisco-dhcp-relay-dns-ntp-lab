@@ -13,7 +13,7 @@ The focus is on DHCP relay behavior across Layer 3 boundaries, internal DNS, and
 |--------|-----------|-----|
 | R1 | fa0/0 | 10.0.0.1/30 |
 | R2 | fa0/0 | 10.0.0.2/30 |
-| R2 | fa0/0 | 192.168.1.1/24 |
+| R2 | fa0/1 | 192.168.1.1/24 |
 | VPCS1/2 | eth0 | DHCP (192.168.1.0/24) |
 
 ## Concepts Demonstrated
