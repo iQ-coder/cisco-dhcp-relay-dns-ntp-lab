@@ -1,4 +1,4 @@
-# cisco-dhcp-relay-dns-ntp-lab
+
 # Cisco DHCP Relay / DNS / NTP Lab
 
 ## Overview
@@ -6,11 +6,8 @@ This lab demonstrates core network services on Cisco IOS using GNS3 with c3725 r
 The focus is on DHCP relay behavior across Layer 3 boundaries, internal DNS, and NTP synchronization.
 
 ## Topology
-```
-VPCS1 ──┐
-         SW1 ── R2 (Relay/Gateway) ── R1 (DHCP Server / DNS / NTP Master)
-VPCS2 ──┘
-```
+https://github.com/iQ-coder/cisco-dhcp-relay-dns-ntp-lab/blob/master/Screenshot%202026-06-09%20032036.png 
+
 
 ## Device Addressing
 | Device | Interface | IP |
